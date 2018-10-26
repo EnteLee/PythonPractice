@@ -39,3 +39,10 @@ per = float(i)
 
 v = calc_royalty(price, sales, per)    # 결과 표시
 print("인세는 ", v, "원입니다.")
+
+# Default Argument
+def orderCoffee(menu='카페라떼'):
+    print('손님, %s를 주문하였습니다.' % (menu))
+
+orderCoffee()
+
