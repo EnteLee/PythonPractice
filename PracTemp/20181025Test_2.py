@@ -1,3 +1,5 @@
+#if else 배우기
+
 """
 weight = float(input("체중은?"))
 height = float(input("키는?"))

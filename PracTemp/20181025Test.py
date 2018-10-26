@@ -1,3 +1,5 @@
+#list, set
+
 """
 sistar_members = ['효린', '소유']
 print('씨스타 \t:', sistar_members)
